@@ -1,0 +1,30 @@
+body{
+  background-color: rgb(255, 0, 0);
+  font-size: 45px;
+  height:100%;
+  position: relative;
+  margin: 0;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+#plus{
+  color: green;
+  position: absolute;
+}
+#minus{
+  color: red;
+  bottom: 0;
+  position: absolute;
+}
+.sign{
+  text-align: center;
+  width: 100%;
+}
+.signContainer{
+  width: 100%;
+  height:100%;
+  position: absolute;
+}
